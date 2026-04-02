@@ -12,7 +12,7 @@ With Python, we can build **reproducible pipelines** and **interactive dashboard
 - Clean and transform datasets with reproducible scripts.
 - Generate automated summary tables (employment by age, gender, education, region).
 - Export results to Excel, HTML, or JSON for institutional use.
-- Interactive dashboard built with **Streamlit** for filtering and visualization.
+- Interactive dashboard built with **Streamlit**  for filtering and visualization.
 - Modular design for scalability (easy to add new tables or indicators).
 
 ---
